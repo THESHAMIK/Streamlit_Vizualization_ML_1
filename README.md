@@ -5,7 +5,7 @@ OR use STREAMLIT application from python. The fastest way to build and share dat
 if you haven't already check @streamlit it completely changed the way I think about prototypes and data apps. Removes a lot of frontend and design barriers for us data nerds.
 if you do ML and work with Data@streamlit will breathe life into your work. It is when you can write it in Python itself. Make your machine learning app pretty and shareable with @streamlit.
 
-# Programms developed are discussed below in short. Feel free to access & use them.
+# Python Codes developed are discussed below in short. Feel free to access & use them.
 ## ml_random_forrest_algo.py ==> This web based project to access power of RANDOM FORREST ML algo. 
 This app builds a regression model using the **Random Forest** algorithm. This WEB app allows u to upload any raw data file to provide you the model using RM.
 One can play with key params of Random Forrest that is ==> Number of estimators & Seed number (random_state)
