@@ -1,4 +1,4 @@
-# Streamlit_Vizualization_ML_1. EDA & Vizualization is key step in ML. 
+# Web application developed in Python/Streamlit for fast better Vizualization of data for ML. Key for EDA as well. 
 In this project I will develope & discuss lot of web projects developed in Streamlite.
 Speed is the essence in today's fast paced world. One of fastest way to build/deploy ML/AI models & projects in through web app. One option is to host through hiroku 
 OR use STREAMLIT application from python. The fastest way to build and share data apps. Streamlit turns data scripts into shareable web apps in minutes. All in pure Python. 
