@@ -16,6 +16,10 @@ One can play with key params of Random Forrest that is ==> Number of estimators 
 This app allows any user to use this web to play with all possible combination of hyper params to arrive at best possible output/score in ML. Here also user 
 can upload any raw data file in this web page & start playing with params to find the optium combination.
 
+## Model_Performance_Calc.py ==> This web application calculates performance of your ML Model. 
+This code is particularly usefrul when you prediction results from machine learning models lying around & now u need to spin up a code to calculate the performance metrics. 
+You feed this app with the actual and predicted values and the app produces the performance metrics. I will keep adding lot of metrics later or infact use a diff python lib like dabl & D-Tale. This app uses logo.png & Y_example.csv which are also attached here.
+
 ## To execute these programs use :
 pip install -r requirements.txt
 
