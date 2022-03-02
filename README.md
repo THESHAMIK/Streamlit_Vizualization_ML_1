@@ -1,4 +1,4 @@
-# Web application developed in Python/Streamlit for fast better Vizualization of data for ML. Key for EDA as well. 
+# Web application developed in Python/Streamlit for faster & better Vizualization of data for ML. Key for EDA as well. 
 This is in reference to my Blog --> https://shamikbhattacharya.wordpress.com/2022/02/22/story-telling-through-visualization-tools-in-python/ where visualization tools for 
 Machine Learning in python was discussed.
 In this project I will develope & discuss lot of web projects developed in one of best web tools available in python named Streamlite.
