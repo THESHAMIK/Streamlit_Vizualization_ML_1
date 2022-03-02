@@ -24,7 +24,8 @@ Note : For this code to run, Pl add PIL lib of python *in your requirements.txt 
 ## Best_Predict_Perf_Model.py ==> A machine learning model comparison web app in Python using the Streamlit and lazypredict libraries.
 This app will allow you to *rapidly compare the prediction performance* of more than **30 machine learning models** in 1 step by simply uploading an input CSV file. After uploading the CSV file the models will be built and the app will allow you to download the results of the model performance.
 “I need to fit the data for every model then apply metrics to check which model has better accuracy for the available dataset ,then choose best model and also this process is time-consuming and even it might not be that much effective too“.
-For this problem, I got a simple solution when surfing through python org, which is a small python library by name “lazypredict” and it does wonders
+For this problem, I got a simple solution when surfing through python org, which is a small python library by name “lazypredict” and it does wonders.
+Credit to ==> https://github.com/shankarpandala/lazypredict/tree/master
 Note : For this code to run, Pl add lazypredict lib of python *in your requirements.txt or in your setup env --> Pip install lazypredict*. Python version to chose is 3.6 or 3.7
 
 ## To execute these programs use :
